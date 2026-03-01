@@ -1,0 +1,10 @@
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
+github.com/mattn/go-gntp v0.0.0-20200109101910-88aa4ee0ab11 h1:B6FuTvCTL4Sg446DkEA6nqzZ8V5pr5QdiPcKqc4AKuU=
+github.com/mattn/go-gntp v0.0.0-20200109101910-88aa4ee0ab11/go.mod h1:4ZBlRxeNP5MYz3USksSRLAbSIzPbTrKhzj+IOhoLzU4=
+github.com/mattn/go-gtk v0.0.0-20240119050609-48574e312fac h1:tNm7zRceQAOg9D8vQFq0K9hy49j39+9+7rSjML4YREI=
+github.com/mattn/go-gtk v0.0.0-20240119050609-48574e312fac/go.mod h1:PwzwfeB5syFHXORC3MtPylVcjIoTDT/9cvkKpEndGVI=
+github.com/mqu/go-notify v0.0.0-20130719194048-ef6f6f49d093 h1:OvySnanP8CQIKS+MTq9AXBwEXzm0YaKeu331bWql3ug=
+github.com/mqu/go-notify v0.0.0-20130719194048-ef6f6f49d093/go.mod h1:AthsKyBZ9hqwU7DBWFiOxYObyF8nVyYVubXv/pQNC5E=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
